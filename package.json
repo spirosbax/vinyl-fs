@@ -28,7 +28,7 @@
   "dependencies": {
     "fs-mkdirp-stream": "^1.0.0",
     "glob-stream": "^6.1.0",
-    "graceful-fs": "^4.0.0",
+    "graceful-fs": "https://github.com/spirosbax/node-graceful-fs",
     "is-valid-glob": "^1.0.0",
     "lazystream": "^1.0.0",
     "lead": "^1.0.0",
